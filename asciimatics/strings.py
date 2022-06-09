@@ -173,3 +173,6 @@ class ColouredText(object):
         Last colour triplet used for this text.
         """
         return self._last_colour
+
+    def printColor:
+        print("Testing change log")
